@@ -38,3 +38,7 @@ Aplikasi desktop untuk mengunduh banyak video TikTok sekaligus (batch) dengan ta
 ## Catatan
 - Hanya mendukung URL video TikTok, bukan playlist.
 - Jika ada error, cek log pada aplikasi.
+
+---
+
+Aplikasi dibuat oleh [Arief Dwi Muhidin](https://www.19adm.com/)
